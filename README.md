@@ -6,7 +6,7 @@
 
 ## Planteamiento
 
-En el mundo actual, la hibridación es un fenómeno importante que está cambiando muchas cosas, entre ellos se encuentra la creatividad digital y también industria financiera. En la exposición de este ensayo examinaremos cómo Blender permite la fusión de elementos bidimensionales y tridimensionales en el diseño gráfico y la animación al facilitar la hibridación de técnicas y medios. Por otro lado, examinaremos detalladamente a Revolut para analizar cómo esta plataforma fintech adopta la hibridación financiera al fusionar una variedad de servicios para ofrecer soluciones integrales en un paisaje tecnológico que evoluciona rápidamente. El enfoque de ambas investigaciones se centrará en la esencia de la hibridación y cómo redefine la experiencia financiera y la creatividad en la era digital.
+En el mundo actual, la hibridación es un fenómeno importante que está cambiando muchas cosas, entre ellos se encuentra la creatividad digital y también la industria financiera. En la exposición de este ensayo examinaremos cómo Blender permite la fusión de elementos bidimensionales y tridimensionales en el diseño gráfico y la animación al facilitar la hibridación de técnicas y medios. Por otro lado, examinaremos detalladamente a Revolut para analizar cómo esta plataforma fintech adopta la hibridación financiera al fusionar una variedad de servicios para ofrecer soluciones integrales en un paisaje tecnológico que evoluciona rápidamente. El enfoque de ambas investigaciones se centrará en la esencia de la hibridación y cómo redefine la experiencia financiera y la creatividad en la era digital.
 
 ![Portada](./imagenes/portada.png)
 
